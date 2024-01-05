@@ -1,0 +1,26 @@
+body{
+    background-image: url(../imgs/general/fondo4.jpg);
+    background-color: rgba(32, 32, 32, .4);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-weight: bold;
+    margin: 0;
+    overflow-x: hidden;
+    position: relative;
+    width: 100%;
+    color:nth($list: $colores, $n: 1);
+    text-shadow: 2px 2px 2px black;
+    ::-webkit-scrollbar {
+        width: 10px;
+       }
+       
+    ::-webkit-scrollbar-track {
+        background: nth($list: $colores, $n: 4);
+    }
+       
+    ::-webkit-scrollbar-thumb {
+        background: nth($list: $colores, $n: 5);
+    }
+}

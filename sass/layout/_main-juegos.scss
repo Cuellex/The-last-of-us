@@ -1,0 +1,19 @@
+#main-juegos{
+    section:nth-of-type(1){
+        h1{display: none}
+        background: rgba($color: #323232, $alpha: .8);
+        font-size: 20px;
+        padding: 0;
+        div{
+            padding: 15px;
+            margin-bottom: 1rem;
+            h2{
+                font-size: 30px;
+                text-shadow: 3px 3px 3px black;
+                color: nth($list: $colores, $n: 1);
+            }
+        }
+
+    }
+}
+
