@@ -11,4 +11,10 @@ El proyecto al haber sido desarrollado por una única persona, la cual además d
 *  Sass
 
 ## Colaboración
-En caso de querer aportar o colaborar, las puertas estan abiertas para todo el mundo que este interesado en apoyar a la comunidad.
+En caso de querer aportar o colaborar, las puertas estan abiertas para todo el mundo que este interesado en apoyar a la comunidad. Si deseas ponerte en contacto puedes enviar un mail contando tus ideas o propuestas
+
+## Contacto 
+
+-  Santiago Nahuel Cuello
+-  santiagocuello029@gmail.com
+-  +54 9 11 2259-3952
