@@ -127,26 +127,27 @@ footer div .social_icon {
   height: 100px;
   width: 100px;
   padding: 15px;
-  border-radius: 800px;
+  border-radius: 100%;
   border: 3px solid whitesmoke;
-  background-image: url(../../imgs/general/footbar/facebook.png);
+  background-image: url(../../imgs/general/footbar/icono-facebook.png);
   background-position: center;
-  background-size: 40%;
+  background-size: 70%;
   background-repeat: no-repeat;
   text-decoration: none;
 }
 footer div .social_icon:hover {
   background-color: rgb(32, 32, 32);
+  border: 3px solid rgb(32, 32, 32);
   filter: invert(1);
 }
 footer div .social_icon:nth-of-type(2) {
-  background-image: url(../../imgs/general/footbar/instagram.png);
+  background-image: url(../../imgs/general/footbar/icono-instagram.png);
 }
 footer div .social_icon:nth-of-type(3) {
-  background-image: url(../../imgs/general/footbar/twitter.png);
+  background-image: url(../../imgs/general/footbar/icono-twitter.png);
 }
 footer div .social_icon:nth-of-type(4) {
-  background-image: url(../../imgs/general/footbar/youtube.png);
+  background-image: url(../../imgs/general/footbar/icono-youtube.png);
 }
 footer ul {
   padding: 0;
