@@ -18,3 +18,7 @@ En caso de querer aportar o colaborar, las puertas estan abiertas para todo el m
 -  Santiago Nahuel Cuello
 -  santiagocuello029@gmail.com
 -  +54 9 11 2259-3952
+
+## Link de laweb ya subida
+
+https://dashing-eclair-3101e0.netlify.app/
